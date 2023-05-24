@@ -2,7 +2,7 @@
 
 A prediction Model of Season Flu Vaccine uptake
 
-![seasonal](Images\vaccination.png.jpeg)
+![seasonal](https://github.com/waihiga9/H1N1_and_Seasonal_Flu_Vaccines/blob/d02e9180ec5751259ea57f581310a769d05b6b2d/Images/vaccination.png)
 
 ## Introduction
 The H1N1 pandemic emerged in 2009 as a global health crisis. The virus, originally originating in pigs, transmitted to humans and quickly spread worldwide. The pandemic had a devastating impact, resulting in an estimated 151,700 to 575,400 deaths worldwide. Young children and middle-aged adults were particularly vulnerable to the severe effects of the H1N1 virus.
