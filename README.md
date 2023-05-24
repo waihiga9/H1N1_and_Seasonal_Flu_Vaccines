@@ -1,0 +1,1 @@
+<span>Photo by <a href=Images\vaccination.png></span>
