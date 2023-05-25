@@ -18,7 +18,7 @@ The business problem at hand revolves around empowering ApexHealth Insurance - t
 Furthermore, the predictive model will allow ApexHealth Insurance to identify individuals who are likely to come into contact with flu-infected individuals. By notifying these individuals proactively, ApexHealth Insurance can support early intervention measures, such as seeking medical advice, taking antiviral medications, or implementing isolation protocols. This proactive approach helps prevent severe flu scenarios, reduce hospital admissions, and ultimately minimize healthcare expenses for both policyholders and ApexHealth Insurance.
 
 
-## Main Objectives
+## Main Objective
 
 The goal of this project is to develop a predictive model using individual characteristics and behavioral patterns to estimate seasonal flu vaccine uptake
 
@@ -40,7 +40,7 @@ Top 5 features that made it to modelling;
 |4|`employment_industry`| 1669.849661|
 |5|`opinion_seas_vacc_effective`| 991.273021|
 
-Comaprison of the final features and feature importance analysis,
+Comparison of the final features and feature importance analysis,
 ![features](https://github.com/waihiga9/H1N1_and_Seasonal_Flu_Vaccines/blob/9bc9b1ded9bd604318b5aa61cbbef60b6513f777/Images/feature_importance.png)
 
 
@@ -67,9 +67,10 @@ The model selection was based on the following criteria:
 | Gradient_Boosting| 78.2| 77.55| 77.32|
 | XGBoost| 76.6| 76.8| 76.23| 
 
- The Gradient Boosting model was selected as the top performer among the models, exhibiting strong predictive capabilities. Its superior performance in accurately predicting the seasonal flu vaccine uptake made it the preferred choice.
+The Gradient Boosting model was selected as the top performer among the models, exhibiting strong predictive capabilities. Its superior performance in accurately predicting the seasonal flu vaccine uptake made it the preferred choice.
 
-![confusion_matrix]
+Here is a confustion matrix metric to investigate the performance of the model.
+![confusion_matrix](https://github.com/waihiga9/H1N1_and_Seasonal_Flu_Vaccines/blob/5947fd611b65e39a7fe4d519076c20386dd545b1/Images/cm.png)
 
 ## Conclusion
 
