@@ -29,14 +29,17 @@ The datasets used in this project were obtained from Driven Data and originate f
 
 ## Data Preparation
 
+The data was loaded and assessed, followed by exploratory data analysis (EDA) to gain better understanding. The dataset contained numerous missing values, which were imputed or handled by dropping some rows. As all the features were categorical, their data types were converted to enable one-hot encoding, making the data suitable for modeling purposes.
+
 
 ## Modelling
 
-The dataset was divided into two sets: the training dataset and the test dataset. The baseline model was established by employing a Decision Tree.
-Additionally the following datasets were used:
-- 
--
-- 
+The data was split into training and test datasets, with the training data used to train the models and the test data used to evaluate their performance. A baseline model was established using Logistic Regression as the initial modeling approach.
+
+Additionally the following models were used:
+- Decision Tree Model
+- RandomForest Model
+-  Gradient Boosting Model
 
 
 ## Model Evaluation
